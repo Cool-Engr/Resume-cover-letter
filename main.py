@@ -271,25 +271,25 @@ st.markdown("""
         padding: 1rem;
         margin: 0.5rem 0;
     }
-    .comparison-container {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 1rem;
-        margin: 1rem 0;
-    }
-    .comparison-box {
-        border: 1px solid #e5e7eb;
-        border-radius: 8px;
-        padding: 1rem;
-        background-color: white;
-    }
-    .comparison-title {
-        font-weight: 600;
-        color: #1e3a8a;
-        margin-bottom: 0.5rem;
-        padding-bottom: 0.5rem;
-        border-bottom: 1px solid #e5e7eb;
-    }
+    # .comparison-container {
+    #     display: grid;
+    #     grid-template-columns: 1fr 1fr;
+    #     gap: 1rem;
+    #     margin: 1rem 0;
+    # }
+    # .comparison-box {
+    #     border: 1px solid #e5e7eb;
+    #     border-radius: 8px;
+    #     padding: 1rem;
+    #     background-color: white;
+    # }
+    # .comparison-title {
+    #     font-weight: 600;
+    #     color: #1e3a8a;
+    #     margin-bottom: 0.5rem;
+    #     padding-bottom: 0.5rem;
+    #     border-bottom: 1px solid #e5e7eb;
+    # }
 </style>
 """, unsafe_allow_html=True)
 
