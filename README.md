@@ -81,7 +81,6 @@ AICoverLetterResume is a powerful, locally-hosted application that leverages adv
 3. Generate documents with your preferred template
 4. Export as PDF with professional formatting
 
-![Templates](images/templates.jpg)
 
 ## Troubleshooting
 
